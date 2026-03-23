@@ -19,10 +19,10 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 
 ## Projects
 
-- **RideStream Data Engineering Project**  
+- **RideStream Data Pipeline**  
   Built an end-to-end Azure lakehouse pipeline for ride-hailing analytics, combining batch ingestion, real-time event streaming, Databricks transformations, and dimensional modeling into a silver OBT and gold star schema.
 
-- **Spotify Data Engineering Project**  
+- **Spotify Azure Medallion Pipeline**  
   Developed a medallion-architecture pipeline using Azure Data Factory and Databricks to ingest, transform, and organize music data for analytics and reporting.
 
 The full code for these projects is available in the pinned repositories below for a detailed view of the implementation.
