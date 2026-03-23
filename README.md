@@ -1,6 +1,6 @@
 ## Hi, I'm Sai Nikhil Pillai 👋
 
-I’m an MSIS ’26 student at UT Austin with 3 years of experience at FHLB Dallas and Accenture. I am having a strong interest in data engineering, cloud platforms, and AI/ML. I enjoy building end-to-end data systems that turn raw data into reliable, analytics-ready insights.
+I’m an MS in Information Science ’26 student at UT Austin with 3 years of experience at FHLB Dallas and Accenture. I am having a strong interest in data engineering, cloud platforms, and AI/ML. I enjoy building end-to-end data systems that turn raw data into reliable, analytics-ready insights.
 
 ## About Me
 
