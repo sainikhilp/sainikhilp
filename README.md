@@ -17,15 +17,21 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 - **Applied AI:** Prompt Engineering, LLMs, RAG Pipelines, Vector Search, Semantic Similarity
 - **Tools:** Git, VS Code, Jupyter Notebook, Visio, monday.com
 
+
 ## Projects
 
 - **RideStream Data Pipeline**  
   Built an end-to-end Azure lakehouse pipeline for ride-hailing analytics, combining batch ingestion, real-time event streaming, Databricks transformations, and dimensional modeling into a silver OBT and gold star schema.
 
-- **Spotify Azure Medallion Pipeline**  
+- **SoundWave Azure Medallion Pipeline**  
   Developed a medallion-architecture pipeline using Azure Data Factory and Databricks to ingest, transform, and organize music data for analytics and reporting.
 
+- **pi-level-rag-curriculum-mapper**  
+  Designed a multi-method NLP system that maps BSN nursing syllabi to AACN competency domains using LDA, NER, BioWordVec, BERT embeddings, FAISS, and PI-level RAG to deliver interpretable, evidence-backed curriculum alignment.
+
 The full code for these projects is available in the pinned repositories below for a detailed view of the implementation.
+
+
 
 
 ## Career Interests
