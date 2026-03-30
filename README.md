@@ -20,6 +20,9 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 
 ## Projects
 
+- **movielens-dbt-elt-pipeline**
+  Layered dbt project on Databricks transforming 20M+ MovieLens ratings into clean star-schema dimensions and facts for analytics, with robust data quality tests, SCD Type 2 snapshots for user tag history, seed-based movie enrichment, and interactive dbt docs showcasing the end-to-end DAG lineage.
+
 - **RideStream Data Pipeline**  
   Built an end-to-end Azure lakehouse pipeline for ride-hailing analytics, combining batch ingestion, real-time event streaming, Databricks transformations, and dimensional modeling into a silver OBT and gold star schema.
 
