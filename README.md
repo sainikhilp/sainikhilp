@@ -19,7 +19,7 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 
 
 ## Projects
-
+The full code for these projects is available in the pinned repositories below for a detailed view of the implementation.
 - **studymate-rag-chatbot**<br>
   A Retrieval-Augmented Generation (RAG) chatbot that answers questions about course material the syllabus and textbook using OpenAI embeddings, FAISS vector search, and GPT-4o mini. Includes a full evaluation pipeline comparing three OpenAI models.
 - **movielens-dbt-elt-pipeline**  
@@ -34,7 +34,7 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 - **pi-level-rag-curriculum-mapper**  
   Designed a multi-method NLP system that maps BSN nursing syllabi to AACN competency domains using LDA, NER, BioWordVec, BERT embeddings, FAISS, and PI-level RAG to deliver interpretable, evidence-backed curriculum alignment.
 
-The full code for these projects is available in the pinned repositories below for a detailed view of the implementation.
+
 
 
 
