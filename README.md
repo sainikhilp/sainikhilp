@@ -20,6 +20,8 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 
 ## Projects
 
+- **studymate-rag-chatbot**<br>
+  A Retrieval-Augmented Generation (RAG) chatbot that answers questions about course material the syllabus and textbook using OpenAI embeddings, FAISS vector search, and GPT-4o mini. Includes a full evaluation pipeline comparing three OpenAI models.
 - **movielens-dbt-elt-pipeline**  
   Layered dbt project on Databricks transforming 20M+ MovieLens ratings into clean star-schema dimensions and facts for analytics, with robust data quality tests, SCD Type 2 snapshots for user tag history, seed-based movie enrichment, and interactive dbt docs showcasing end-to-end DAG lineage.
 
