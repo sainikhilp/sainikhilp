@@ -14,7 +14,7 @@ I’m an MS in Information Science ’26 student at UT Austin with 3 years of ex
 - **Programming & Libraries:** Python, Claude Code, Pandas, scikit-learn, PyTorch, SQL, Power Automate, Power Apps, Power Query
 - **Cloud & Data Engineering:** PySpark, dbt, Azure Data Factory, Azure Data Lake Storage, Azure Event Hubs, Delta Live Tables, Lakeflow Jobs, Outsystems
 - **Data Visualization & Reporting** Matplotlib, Seaborn, Power BI, Tableau, Excel
-- **Applied AI:** Prompt Engineering, LLMs, RAG Pipelines, Vector Search, Semantic Similarity
+- **Applied AI:** Prompt Engineering, LLMs, RAG Pipelines, LangChain, LangGraph, Semantic Similarity
 - **Tools:** Git, VS Code, Jupyter Notebook, Visio, monday.com
 
 
