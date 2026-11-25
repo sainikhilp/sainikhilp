@@ -20,16 +20,6 @@ The full code for these projects is available in the pinned repositories below f
   Designed a multi-method NLP system that maps BSN nursing syllabi to AACN competency domains using LDA, NER, BioWordVec, BERT embeddings, FAISS, and PI-level RAG to deliver interpretable, evidence-backed curriculum alignment.
 
 
-
-
-
-
-
-## Career Interests
-
-I’m interested in roles in: Data Engineering, Analytics Engineering, Cloud Data Platforms, AI / ML Engineering, Applied Data Science
-
-
 ## Contact
 
 - **LinkedIn:** (https://www.linkedin.com/in/sai-nikhil-p/)
