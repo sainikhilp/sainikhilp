@@ -2,21 +2,6 @@
 
 I’m an MS in Information Science ’26 student at UT Austin with 3 years of experience at FHLB Dallas and Accenture. I am having a strong interest in data engineering, cloud platforms, and AI/ML. I enjoy building end-to-end data systems that turn raw data into reliable, analytics-ready insights.
 
-## About Me
-
-- MSIS ’26 at The University of Texas at Austin.
-- Background in data engineering, cloud automation, and applied AI.
-- Hands-on experience in Azure, Databricks, PySpark, SQL, Delta Lake, and streaming architectures.
-- Interested in building scalable, production-style data pipelines, intelligent workflows and ML systems.
-
-## Technical Skills
-
-- **Programming & Libraries:** Python, Claude Code, Pandas, scikit-learn, PyTorch, SQL, Power Automate, Power Apps, Power Query
-- **Cloud & Data Engineering:** PySpark, dbt, Azure Data Factory, Azure Data Lake Storage, Azure Event Hubs, Delta Live Tables, Lakeflow Jobs, Outsystems
-- **Data Visualization & Reporting** Matplotlib, Seaborn, Power BI, Tableau, Excel
-- **Applied AI:** Prompt Engineering, LLMs, RAG Pipelines, LangChain, LangGraph, Semantic Similarity
-- **Tools:** Git, VS Code, Jupyter Notebook, Visio, monday.com
-
 
 ## Projects
 The full code for these projects is available in the pinned repositories below for a detailed view of the implementation.
